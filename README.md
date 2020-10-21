@@ -1,6 +1,6 @@
 # cam_i3d.pytorch
 
-- Implementation of Cam with I3D.
+Implementation of Cam with I3D.
 
 ![ad](https://github.com/YangDi666/cam_i3d.pytorch/blob/main/examples/video1_cams/cam_000006.jpg)
 ## Quick start
